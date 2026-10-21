@@ -1,8 +1,3 @@
-Aqui está um modelo de `README.md` bem estruturado e profissional. 
-
-> **Dica:** No texto abaixo, já usei os nomes das pastas corrigidos (`Candidatos` e `Empregado`). Caso você decida manter os nomes atuais das pastas no repositório, basta ajustar os nomes na seção de estrutura!
-
-```markdown
 # ☕ Estudos em Java: Collections, Streams e Expressões Lambda
 
 Repositório dedicado à prática de estruturas de dados da **Collections Framework** (`List`, `Set`, `Map`), **Programação Funcional** (`Streams API`, Expressões Lambda, Method References) e manipulação de arquivos (`BufferedReader` / CSV) utilizando recursos modernos do **Java (JDK 21 / 25)**.
